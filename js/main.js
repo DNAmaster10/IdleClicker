@@ -9,7 +9,7 @@ function myLoop() {
     if (i < 10) {
       myLoop();
     }
-  }, 500
+  }, 500)
 }
 
 myLoop();
